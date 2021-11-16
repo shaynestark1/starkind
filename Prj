@@ -1,0 +1,28 @@
+<html><head>
+    <style>
+      h1{
+        fontsize: 70px;
+        text-align: center;
+        color: ForestGreen;
+      }
+      h2{
+        fontsize: 50px;
+        text-align: left;
+        color: FireBrick;
+      }
+      p{
+        fontsize: 30px;
+        text-align: right;
+        color: HotPink;
+      }
+      body{
+        color: LightSeaGreen
+      }
+    </style>
+  </head>
+  <body>
+    <h1>eto vadim</h1>
+    <h2>sdelal</h2>
+    <p>eto pravda</p>
+  </body>
+</html>
